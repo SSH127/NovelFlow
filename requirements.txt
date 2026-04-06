@@ -1,0 +1,8 @@
+python==3.11
+langgraph
+langchain
+dotenv
+langchain-openai
+langchain-core
+fastapi
+supabase
