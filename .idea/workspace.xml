@@ -4,41 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e11fb7c-f17f-4156-bdef-94fd33f30331" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/app/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/v1/agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/agent/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/agent/builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/agent/executor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/agent/state.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/llm/llm_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/router/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/router/tool_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/tools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/tools/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/tools/math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/models/chat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/models/message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/repository/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/repository/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/repository/chat_repo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/repository/user_repo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/db/session.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/agent_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/utils/logger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NovelFlow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NovelFlow.iml" afterDir="false" />
+    <list default="true" id="8e11fb7c-f17f-4156-bdef-94fd33f30331" name="更改" comment="初步提交，框架和文件基础">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +52,12 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PythonProject/NovelFlow"
+    "last_opened_file_path": "D:/PythonProject/NovelFlow/app"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\NovelFlow\app" />
       <recent name="D:\PythonProject\NovelFlow" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -186,6 +154,19 @@
       <option name="presentableId" value="Default" />
       <updated>1774867014045</updated>
     </task>
+    <task id="LOCAL-00001" summary="初步提交，框架和文件基础">
+      <option name="closed" value="true" />
+      <created>1775457993657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775457993657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初步提交，框架和文件基础" />
+    <option name="LAST_COMMIT_MESSAGE" value="初步提交，框架和文件基础" />
   </component>
 </project>
